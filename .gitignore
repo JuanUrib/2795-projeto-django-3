@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/django,venv,virtualenv
-# Edit at https://www.toptal.com/developers/gitignore?templates=django,venv,virtualenv
+# Created by https://www.toptal.com/developers/gitignore/api/virtualenv,django,venv,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=virtualenv,django,venv,dotenv
 
 ### Django ###
 *.log
@@ -171,6 +171,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+### dotenv ###
+
 ### venv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
@@ -187,4 +189,4 @@ pip-selfcheck.json
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 
-# End of https://www.toptal.com/developers/gitignore/api/django,venv,virtualenv
+# End of https://www.toptal.com/developers/gitignore/api/virtualenv,django,venv,dotenv
